@@ -1,4 +1,4 @@
-# labirint
+# Scrapy labirint
 
 
 Simple site scraper www.labirint.ru to extract the title and price of the book with saving data in json file.
